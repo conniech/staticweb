@@ -1,2 +1,2 @@
 # staticweb
-# This is a readme test
+# This is a readme test on auto trigger build
